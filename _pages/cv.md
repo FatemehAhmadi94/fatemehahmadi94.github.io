@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D ongoing - TU Berlin 
+* Ph.D. ongoing - TU Berlin 
 * MSc - Amirkabir University of Technology, Computer Engineering (Software), September 2016 - February 2019
 * BSc - University of Kashan, Computer Engineering (Software), September 2012 - July 2016
 
@@ -43,29 +43,35 @@ Teaching
 ======
 * Data Integration
   * Leibniz Universität Hannove, Hannover, Germany
-  * Teaching Assistant, Summer Semester 2022 and 2023\\
+  * Teaching Assistant, Summer Semester 2022 and 2023
   * Professor: Prof. Dr. Ziawasch Abedjan
 
 * Project: Big Data Technologies
   * Leibniz Universität Hannove, Hannover, Germany
-  * Teaching Assistant, Winter Semester 2022-23 and 2023-24\\
+  * Teaching Assistant, Winter Semester 2022-23 and 2023-24
   * Professor: Prof. Dr. Ziawasch Abedjan
 
 * Databases II 
   * Leibniz Universität Hannove, Hannover, Germany
-  * Teaching Assistant, Winter Semester 2022-23 and 2023-24\\
+  * Teaching Assistant, Winter Semester 2022-23 and 2023-24
   * Professor: Prof. Dr. Ziawasch Abedjan
 
 * Data Structures and Algorithms
   * Leibniz Universität Hannove, Hannover, Germany
-  * Teaching Assistant, Winter Semester 2021-22\\
+  * Teaching Assistant, Winter Semester 2021-22
   * Professor: Prof. Dr. Ziawasch Abedjan
 
 * Compilers design princliples
   * Leibniz University of Kashan, Kashan, Iran
-  * Teaching Assistant, September 2015 - February 2016\\
+  * Teaching Assistant, September 2015 - February 2016
   * Instructor: Monireh Ghadirian
 
+Honors and Awards
+======
+* DAAD Scholarship, 2017-2018
+  * Awarded the scholarship from the University of Passau and the DAAD to study in Passau as an exchange student. 
+* Top Student, University of Kashan
+  * Ranked first among the other students 2016
 
 <!-- Skills
 ======
