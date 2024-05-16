@@ -36,8 +36,36 @@ Work experience
   * Duties included: Gained experience in: developing software systems, distributed systems, stream processing, big data tools, and their applications in real-world projects, such as a fraud detection product and a project with an information system for trading with various types of user high rate requests, design and implementation of data pipelines based on requirements.
   
 * May 2019 - November 2019: Intern
-* SON Corporate Group, Tehran, Iran
-* Gained experience in: Java development, stream processing, cutting-edge technologies in big data, and fraud detection.
+  * SON Corporate Group, Tehran, Iran
+  * Gained experience in: Java development, stream processing, cutting-edge technologies in big data, and fraud detection.
+
+Teaching
+======
+* Data Integration
+  * Leibniz Universität Hannove, Hannover, Germany
+  * Teaching Assistant, Summer Semester 2022 and 2023\\
+  * Professor: Prof. Dr. Ziawasch Abedjan
+
+* Project: Big Data Technologies
+  * Leibniz Universität Hannove, Hannover, Germany
+  * Teaching Assistant, Winter Semester 2022-23 and 2023-24\\
+  * Professor: Prof. Dr. Ziawasch Abedjan
+
+* Databases II 
+  * Leibniz Universität Hannove, Hannover, Germany
+  * Teaching Assistant, Winter Semester 2022-23 and 2023-24\\
+  * Professor: Prof. Dr. Ziawasch Abedjan
+
+* Data Structures and Algorithms
+  * Leibniz Universität Hannove, Hannover, Germany
+  * Teaching Assistant, Winter Semester 2021-22\\
+  * Professor: Prof. Dr. Ziawasch Abedjan
+
+* Compilers design princliples
+  * Leibniz University of Kashan, Kashan, Iran
+  * Teaching Assistant, September 2015 - February 2016\\
+  * Instructor: Monireh Ghadirian
+
 
 <!-- Skills
 ======
