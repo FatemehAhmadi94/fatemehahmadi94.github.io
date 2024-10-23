@@ -23,8 +23,8 @@ redirect_from:
 {% include base_path %} -->
 Publications
 ======
-* [Matelda] (https://github.com/LUH-DBS/Matelda): Multi-Table Error Detection (Accepted at EDBT 2025 (2nd round))
-* [Accelerating the Data Cleaning Systems Raha and Baran through Task and Data Parallelism] (https://github.com/D2IP-TUB/DaskRahaBaran) (Accepted at QDB 2024) 
+* [Matelda](https://github.com/LUH-DBS/Matelda): Multi-Table Error Detection (Accepted at EDBT 2025 (2nd round))
+* [Accelerating the Data Cleaning Systems Raha and Baran through Task and Data Parallelism](https://github.com/D2IP-TUB/DaskRahaBaran) (Accepted at QDB 2024) 
 
 
 Education
