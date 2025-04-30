@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "Germany"
-  employer         : "TU Berlin"
+  employer         : "BIFOLD - TU Berlin"
   uri              : # URL
   email            : "f [.] ahmadi [at] tu-berlin [.] de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : " "
+  googlescholar    : "https://scholar.google.de/citations?user=F7sI9CoAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : " "
   pubmed           : " "
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : " " # Replace this with you Bluesky username
+  bluesky          : "fatemeh-ahmadi.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
