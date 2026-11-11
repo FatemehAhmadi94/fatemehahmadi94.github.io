@@ -68,6 +68,11 @@ Teaching
   * Teaching Assistant, Summer Semester 2022 and 2023, Winter Semester 2024-25, 2025-26
   * Professor: Prof. Dr. Ziawasch Abedjan
 
+* Seminar: Advanced Topics in Data Integration
+  * TU Berlin
+  * Summer Semester 2026, Winter Semester 2026-27
+  * Professor: Prof. Dr. Ziawasch Abedjan
+
 * Project: Big Data Technologies
   * Leibniz Universität Hannove, Hannover, Germany
   * Teaching Assistant, Winter Semester 2022-23 and 2023-24
