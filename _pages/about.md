@@ -24,7 +24,9 @@ redirect_from:
 
 Publications
 ======
-* [Demonstrating Matelda for Multi-Table Error Detection](https://github.com/D2IP-TUB/Matelda-Demo) (Accepted at VLDB 2025)
+* [Multi-Table Error Correction: Opportunities and Limitations](https://github.com/D2IP-TUB/multi-table-error-correction) (Accepted at VLDB 2027)
+* [Clean Me If You Can: A Large Collection of Real-World Addresses for Data Cleaning Benchmarking](https://github.com/D2IP-TUB/Clean-Me-If-You-Can) (Revision under Review at VLDB 2025)
+* [Demonstrating Matelda for Multi-Table Error Detection](https://github.com/D2IP-TUB/Matelda-Demo) (Accepted at VLDB 2025) - [Try the Demo](https://matelda.de)
 * [Matelda](https://github.com/LUH-DBS/Matelda): Multi-Table Error Detection (Accepted at EDBT 2025 (2nd round))
 * [Accelerating the Data Cleaning Systems Raha and Baran through Task and Data Parallelism](https://github.com/D2IP-TUB/DaskRahaBaran) (Accepted at QDB 2024) 
 
