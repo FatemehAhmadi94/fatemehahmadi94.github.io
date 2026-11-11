@@ -25,9 +25,9 @@ redirect_from:
 Publications
 ======
 * [Multi-Table Error Correction: Opportunities and Limitations](https://github.com/D2IP-TUB/multi-table-error-correction) (Accepted at VLDB 2027)
-* [Clean Me If You Can: A Large Collection of Real-World Addresses for Data Cleaning Benchmarking](https://github.com/D2IP-TUB/Clean-Me-If-You-Can) (Revision under Review at VLDB 2025)
+* [Clean Me If You Can: A Large Collection of Real-World Addresses for Data Cleaning Benchmarking](https://github.com/D2IP-TUB/Clean-Me-If-You-Can) (Revision under Review at VLDB 2027)
 * [Demonstrating Matelda for Multi-Table Error Detection](https://github.com/D2IP-TUB/Matelda-Demo) (Accepted at VLDB 2025)
-* [Matelda](https://github.com/LUH-DBS/Matelda): Multi-Table Error Detection (Accepted at EDBT 2025 (2nd round))
+* [Matelda](https://github.com/LUH-DBS/Matelda): Multi-Table Error Detection (Accepted at EDBT 2025)
 * [Accelerating the Data Cleaning Systems Raha and Baran through Task and Data Parallelism](https://github.com/D2IP-TUB/DaskRahaBaran) (Accepted at QDB 2024) 
 
 
@@ -41,7 +41,7 @@ Work experience
 ======
 * May 2024 - Now: Research Assistant
   * TU Berlin, Germany
-  * Duties includes: Research on Data Integration
+  * Duties includes: Teaching and Research on Data Integration
   * Supervisor: Prof. Dr. Ziawasch Abedjan
 
 * May 2021 - April 2024: Research Assistant
@@ -64,8 +64,8 @@ Work experience
 Teaching
 ======
 * Data Integration
-  * Leibniz Universität Hannove, Hannover, Germany
-  * Teaching Assistant, Summer Semester 2022 and 2023
+  * Leibniz Universität Hannove & TU Berlin
+  * Teaching Assistant, Summer Semester 2022 and 2023, Winter Semester 2024-25, 2025-26
   * Professor: Prof. Dr. Ziawasch Abedjan
 
 * Project: Big Data Technologies
